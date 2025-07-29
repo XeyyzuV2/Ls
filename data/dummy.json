@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "naruto",
+    "title": "Naruto",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij1N5vQU7gP8CYJMci9CVh3Q1SZ.jpg",
+    "status": "Completed",
+    "genres": ["Action", "Adventure", "Shounen"],
+    "category": "TV",
+    "synopsis": "...",
+    "episodes": [
+      { "ep": 1, "embedUrl": "https://www.dailymotion.com/embed/video/x8x6mne" },
+      { "ep": 2, "embedUrl": "https://www.dailymotion.com/embed/video/x8x6mkd" }
+    ]
+  },
+  {
+    "slug": "one-piece",
+    "title": "One Piece",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMD9Ygz11zjJzAovUR5O7uVMkcj.jpg",
+    "status": "Ongoing",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "category": "TV",
+    "synopsis": "...",
+    "episodes": [
+      { "ep": 1080, "embedUrl": "https://www.dailymotion.com/embed/video/x8x6mne" },
+      { "ep": 1081, "embedUrl": "https://www.dailymotion.com/embed/video/x8x6mkd" }
+    ]
+  }
+]
